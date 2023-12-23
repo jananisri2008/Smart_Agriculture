@@ -1,0 +1,53 @@
+F:\SmartAgri\smartagridemo\smartagridemo\bin\Debug\smartagridemo.exe
+F:\SmartAgri\smartagridemo\smartagridemo\bin\Debug\smartagridemo.pdb
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Form1.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Properties.Resources.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.csproj.GenerateResource.Cache
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.exe
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.pdb
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Mainpage.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.soilupload.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.soilmonitoring.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Preprationmodule.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Fertilizers.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Report.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.UserHome.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Upreparation.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.UFertidemo.resources
+F:\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Uirregation.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.exe
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.pdb
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\bin\Debug\smartagridemo.exe
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\bin\Debug\smartagridemo.pdb
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Fertilizers.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Form1.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Mainpage.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Preprationmodule.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Properties.Resources.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Report.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.UFertidemo.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Uirregation.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Upreparation.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.UserHome.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.csproj.GenerateResource.Cache
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.AgriDBmonitoring.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.AgriDBupload.resources
+C:\Program Files (x86)\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.exe
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.pdb
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\bin\Debug\smartagridemo.exe
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\bin\Debug\smartagridemo.pdb
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Fertilizers.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Form1.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Mainpage.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Preprationmodule.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Properties.Resources.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Report.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.AgriDBmonitoring.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.AgriDBupload.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.UFertidemo.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Uirregation.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.Upreparation.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.UserHome.resources
+C:\Users\user\Desktop\SmartAgri\smartagridemo\smartagridemo\obj\x86\Debug\smartagridemo.csproj.GenerateResource.Cache

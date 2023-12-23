@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F11DB1A6-2F02-4F31-849B-A0AC5C9D70BB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>smartagridemo</RootNamespace>
+    <AssemblyName>smartagridemo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fertilizers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fertilizers.Designer.cs">
+      <DependentUpon>Fertilizers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainpage.Designer.cs">
+      <DependentUpon>Mainpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Preprationmodule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Preprationmodule.Designer.cs">
+      <DependentUpon>Preprationmodule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="soilmonitoring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="soilmonitoring.Designer.cs">
+      <DependentUpon>soilmonitoring.cs</DependentUpon>
+    </Compile>
+    <Compile Include="soilupload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="soilupload.Designer.cs">
+      <DependentUpon>soilupload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UFertidemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UFertidemo.Designer.cs">
+      <DependentUpon>UFertidemo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uirregation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uirregation.Designer.cs">
+      <DependentUpon>Uirregation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upreparation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upreparation.Designer.cs">
+      <DependentUpon>Upreparation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserHome.Designer.cs">
+      <DependentUpon>UserHome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Fertilizers.resx">
+      <DependentUpon>Fertilizers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainpage.resx">
+      <DependentUpon>Mainpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Preprationmodule.resx">
+      <DependentUpon>Preprationmodule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="soilmonitoring.resx">
+      <DependentUpon>soilmonitoring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="soilupload.resx">
+      <DependentUpon>soilupload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UFertidemo.resx">
+      <DependentUpon>UFertidemo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uirregation.resx">
+      <DependentUpon>Uirregation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upreparation.resx">
+      <DependentUpon>Upreparation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserHome.resx">
+      <DependentUpon>UserHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ab.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comm-750x430.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fer.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
